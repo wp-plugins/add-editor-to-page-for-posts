@@ -6,8 +6,8 @@
  * Version: 0.1
  * Author: Christopher Geary
  * Author URI: http://crgeary.com/
- * License: MIT
- * License URI: http://opensource.org/licenses/MIT
+ * License: GPLv2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 if( ! function_exists('crgeary_fix_no_editor_on_posts_page'))
